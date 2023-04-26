@@ -6,8 +6,13 @@ The primary objective of this project is to develop a logistic regression model 
 Required packages:
 
 numpy==1.23.5
+
 pandas==2.0.0
+
 seaborn==0.12.2
+
 matplotlib==3.7.1
+
 statsmodels==0.13.5
+
 scikit-learn==1.2.2
