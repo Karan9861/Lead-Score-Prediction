@@ -15,4 +15,4 @@ Required packages:
 
  - statsmodels (0.13.5)
 
- - scikit-learn==1.2.2
+ - scikit-learn (1.2.2)
